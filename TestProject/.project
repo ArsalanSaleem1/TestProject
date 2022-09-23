@@ -15,3 +15,8 @@
 		<nature>org.eclipse.jdt.core.javanature</nature>
 	</natures>
 </projectDescription>
+
+
+public main Class{
+System.out.print("Hello World")
+}
